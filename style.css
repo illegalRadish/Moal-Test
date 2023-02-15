@@ -83,3 +83,7 @@ form input[type="submit"] {
   user-select: none;
   cursor: pointer;
 }
+
+a {
+  font-size: 10px;
+}
